@@ -25,3 +25,7 @@ https://mvnrepository.com/artifact/org.rxtx/rxtx/2.1.7
 
 Comunicação Serial Java + Arduino (passo a passo)
 https://embarcados.com.br/comunicacao-serial-java-arduino/
+
+---------------------------------------------------------------------------------------------------------------------
+Visualizar Web
+http://localhost:8080/led/ligar
